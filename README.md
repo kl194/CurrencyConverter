@@ -11,16 +11,17 @@ A simple and efficient currency converter application that uses real-time exchan
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
 git clone https://github.com/kl194/CurrencyConverter.git
 
 Navigate to the project directory:
 cd CurrencyConverter
 
-Usage
+## Usage
+
 Open the application
 Enter the amount and select source and target currencies
 View the converted amount instantly
 
-Technologies Used
+## Technologies Used
 C# WindowsForms, HTTP. Rates downloaded from https://exchangerate.host/.
